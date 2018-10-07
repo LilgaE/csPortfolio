@@ -4,6 +4,7 @@
 * Lighting [here](https://lilgae.github.io/lightning2/)
 * Lightning JS [here]()
 * Dice [here](https://lilgae.github.io/dice3/)
+* Chemotaxis [here](https://lilgae.github.io/chemotaxis4/)
 
 ```Java
 void mouseReleased(){
