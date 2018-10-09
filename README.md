@@ -1,5 +1,5 @@
 # csPortfolio:raised_hands::raised_hands::raised_hands::shit:
-Title | link
+Title:thumbsup: | link:point_down:
 ------------ | -------------
 WebPage :cool: | [here](https://lilgae.github.io/TestWeb/highlight.html)
 Lighting :zap: | [here](https://lilgae.github.io/lightning2/)
