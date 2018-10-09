@@ -1,4 +1,4 @@
-# csPortfolio:raised_hands::raised_hands::raised_hands::shit:
+# csPortfolio:raised_hands::raised_hands::raised_hands:
 ---
 Title:thumbsup: | link:point_down:
 ------------ | -------------
