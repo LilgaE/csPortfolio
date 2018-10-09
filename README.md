@@ -1,13 +1,13 @@
 # csPortfolio
 Title | linl
 ------------ | -------------
-WebPage | [here](https://lilgae.github.io/TestWeb/highlight.html)
-Lighting | [here](https://lilgae.github.io/lightning2/)
-Lightning JS | [here]()
-Dice | [here](https://lilgae.github.io/dice3/)
-Chemotaxis | [here](https://lilgae.github.io/chemotaxis4/)
-Presentation | [here]()
-StarFeild | [here]()
+WebPage :cool: | [here](https://lilgae.github.io/TestWeb/highlight.html)
+Lighting :zap: | [here](https://lilgae.github.io/lightning2/)
+Lightning JS :confused: | [here]()
+Dice :stuck_out_tongue_winking_eye: | [here](https://lilgae.github.io/dice3/)
+Chemotaxis :laughing: | [here](https://lilgae.github.io/chemotaxis4/)
+Presentation :fearful: | [here]()
+StarFeild :star2::milky_way: | [here]()
 
 ```Java
 void mouseReleased(){
