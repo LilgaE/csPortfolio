@@ -1,4 +1,4 @@
-# csPortfolio:raised_hands::raised_hands::raised_hands::raised_hands::raised_hands::raised_hands::raised_hands::raised_hands:
+# csPortfolio:raised_hands::raised_hands::raised_hands:
 Title | link
 ------------ | -------------
 WebPage :cool: | [here](https://lilgae.github.io/TestWeb/highlight.html)
