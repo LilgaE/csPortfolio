@@ -17,5 +17,8 @@ void mouseReleased(){
   endX = mouseX;
   endY = 0;
 
+void mouseWheel(MouseEvent event) {
+  speed+=event.getCount();
+}
 }
 ```
