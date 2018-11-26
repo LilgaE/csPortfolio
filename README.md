@@ -1,14 +1,25 @@
-# Evan Lilga's csPortfolio
+# Evan Lilga's csPortfolio:raised_hands::raised_hands::raised_hands:
 ---
-* WebPage [here](https://lilgae.github.io/TestWeb/highlight.html)
-* Lighting [here](https://lilgae.github.io/lightning2/)
-* Dice [here](https://lilgae.github.io/dice3/)
-* Chemotaxis [here](https://lilgae.github.io/chemotaxis4/)
-* Presentation [here](https://docs.google.com/presentation/d/17_0oXYXVy0iQVyKe2z0SUOL0PAO1ArPBuLYvPWIvUAw/edit#slide=id.g446c206545_0_25)
-* StarField [here](https://lilgae.github.io/starfield5/)
+Title:thumbsup: | link:point_down:
+------------ | -------------
+WebPage :cool: | [here](https://lilgae.github.io/TestWeb/highlight.html)
+Lighting :zap: | [here](https://lilgae.github.io/lightning2/)
+Lightning JS :confused::woman_shrugging: | [here]()
+Dice :stuck_out_tongue_winking_eye: | [here](https://lilgae.github.io/dice3/)
+Chemotaxis :laughing: | [here](https://lilgae.github.io/chemotaxis4/)
+Presentation :fearful: | [here]()
+StarField :star2::milky_way: | [here]()
 ---
 
 ```Java
+void mouseReleased(){
+  background(0);
+  startX = mouseX;
+  startY = 0;
+  endX = mouseX;
+  endY = 0;
+  }
+  
 red=round((random(0,255)));
 green=round((random(0,255)));
 blue=round((random(0,255)));
