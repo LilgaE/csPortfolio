@@ -3,10 +3,8 @@
 Title | link
 ------------ | -------------
 WebPage | [here](https://lilgae.github.io/TestWeb/highlight.html)
-Lighting | [here]()
 Dice | [here]()
 Chemotaxis | [here]()
-Presentation | [here]()
 StarField | [here]()
 Christmas Card | [here](https://lilgae.github.io/projectTemplate/)
 ---
